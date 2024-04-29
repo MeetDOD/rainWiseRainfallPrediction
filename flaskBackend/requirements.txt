@@ -1,0 +1,4 @@
+Flask
+Gunicorn
+scikit-learn==1.4.2
+flask_cors
